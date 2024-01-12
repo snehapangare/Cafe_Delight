@@ -31,12 +31,18 @@ HTML, CSS, JavaScript, Bootstrap, VS Code
 
 ### Website Preview:
 ![Cafe Delight Website Preview]
-![slide-02](https://github.com/snehapangare/Cafe_Delight/assets/154306103/50943363-fc2c-4e54-b830-224b5c09c9e1)
 
-![slide-03](https://github.com/snehapangare/Cafe_Delight/assets/154306103/dae2d29e-cef3-414a-87bc-baf677ee43dd)
+![Screenshot (116)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/eaa09dfd-8b3d-4f9b-8cc4-d9264450dfbf)
 
-![slide-03](https://github.com/snehapangare/Cafe_Delight/assets/154306103/b88c004a-bca2-47ab-a87a-3d2e014b5bc3)
+![Screenshot (117)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/7c71d60e-0e5d-45dc-8d24-2f2bcd5ae2c2)
 
+![Screenshot (118)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/150cb799-e774-44ef-8d04-29d1f37ef535)
+
+![Screenshot (119)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/4f1cf099-34a1-456c-9ce6-e11b7e79b01d)
+
+![Screenshot (120)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/52452827-f244-4be0-88f9-360e8f1529b8)
+
+![Screenshot (121)](https://github.com/snehapangare/Cafe_Delight/assets/154306103/a56446df-33ac-4f05-b8ba-dbaaf25f5b7c)
 
 
 
